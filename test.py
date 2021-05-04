@@ -33,9 +33,5 @@ time.sleep(.5)
 
 remote_conn.close()
 
-
 print("#------------------------------------\nThe new device name is :"+hostname+"\n")
 
-# Notes:
-# 5/3/2021 - took from stackoverflow and updating for python3
-# 5/3/2021 - this is now a simple program to change a devices hostname
